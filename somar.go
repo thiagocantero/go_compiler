@@ -4,7 +4,7 @@ import "fmt"
 
 func somar(x int, y int){ 
 	resultado := x + y 
-	fmt.Println(resultado) 
+	fmt.Println("A soma de x + y é: ", resultado) 
 } 
 
 func main(){ 
